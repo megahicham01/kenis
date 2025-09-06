@@ -10360,9 +10360,20 @@ li:hover .sidebar__comments__icon {
   margin: 0;
 }
 
+
+.appointment-one__image {
+  border-radius: 20px; 
+  width: 100%; 
+  height: auto; 
+  display: block;
+}
 .appointment-one__image:hover {
   animation: zump 4s linear infinite;
   transform: scale(1.1);
+  border-radius: 20px; 
+  width: 100%; 
+  height: auto; 
+  display: block;
 }
 
 .appointment-one__image-grid {
